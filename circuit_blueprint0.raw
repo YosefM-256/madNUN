@@ -1,0 +1,74 @@
+Title: ** full circuit **
+Date: Fri Sep 23 18:46:36 2022
+Plotname: Operating Point
+Flags: real
+No. Variables: 32
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice XVII
+Variables:
+	0	V(sc1_l_vin_dig)	voltage
+	1	V(sc2_l_vin_dig)	voltage
+	2	V(sc3_l_vin_dig)	voltage
+	3	V(1)	voltage
+	4	V(15)	voltage
+	5	V(2)	voltage
+	6	V(vb_1k)	voltage
+	7	V(vb)	voltage
+	8	V(vb_100)	voltage
+	9	V(sc7_l_v_in)	voltage
+	10	V(6)	voltage
+	11	V(sc1_l_vin_an)	voltage
+	12	V(5)	voltage
+	13	V(v_an_10)	voltage
+	14	V(v_an_100)	voltage
+	15	V(v_an_1k)	voltage
+	16	V(sc4_l_v_out)	voltage
+	17	V(sc5_l_v_out)	voltage
+	18	V(sc6_l_v_out)	voltage
+	19	V(sc7_l_v_out)	voltage
+	20	V(sc8_l_v_out)	voltage
+	21	V(sc9_l_v_out)	voltage
+	22	V(sc10_l_v_out)	voltage
+	23	Ie(Qq2)	device_current
+	24	Ic(Qq1)	device_current
+	25	Ib(Qq1)	device_current
+	26	Ie(Qq1)	device_current
+	27	I(Rrc1)	device_current
+	28	I(Rrc2)	device_current
+	29	I(Rrc3)	device_current
+	30	I(Rrb2)	device_current
+	31	I(Rrb1)	device_current
+Values:
+0		5.000000000000000e+000
+	0.000000000000000e+000
+	0.000000000000000e+000
+	0.000000000000000e+000
+	5.000000000000000e+000
+	1.000000000000000e+000
+	9.996482552624861e-001
+	7.671626740312424e-001
+	7.671677463109008e-001
+	3.403097496842793e+000
+	2.000000000000000e+000
+	4.009454383302116e+000
+	4.732083834154525e+000
+	3.993390406987840e+000
+	3.403103470279544e+000
+	3.403157231201365e+000
+	7.986819397436625e-001
+	6.806267903220924e-001
+	6.806375423028578e-001
+	6.806255956573643e-001
+	3.068991592339456e-001
+	3.998896179761388e-001
+	3.068971303601358e-001
+	-5.908976781169474e-002
+	5.902946074326465e-002
+	2.325870263495733e-004
+	-5.926204777661338e-002
+	5.973435857153931e-008
+	5.973436751016692e-008
+	5.902929101450467e-002
+	5.072279658402401e-008
+	2.324855812312437e-004

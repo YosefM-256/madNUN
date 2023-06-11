@@ -1,0 +1,70 @@
+Circuit: ** full circuit **
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+vernier = 0.5
+Gmin = 16.7772
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 14.6836
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 14.5131
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+vernier = 0.25
+Source Step = 32.5758%
+Source Step = 34.4697%
+Source Step = 36.3636%
+Source Step = 38.2576%
+Source Step = 40.1515%
+vernier = 0.09375
+Source Step = 42.7083%
+Source Step = 45.5492%
+Source Step = 48.3902%
+Source Step = 51.2311%
+Source Step = 54.072%
+vernier = 0.140625
+Source Step = 57.7652%
+Source Step = 62.0265%
+Source Step = 66.2879%
+Source Step = 70.5492%
+Source Step = 74.8106%
+vernier = 0.210938
+Source Step = 80.1373%
+Source Step = 86.5294%
+Source Step = 92.9214%
+Source Step = 99.3134%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sun Jan 29 17:44:58 2023
+Total elapsed time: 6.710 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 2940
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 407
+fillins = 2445
+solver = Normal
+Matrix Compiler1:   19635 opcodes  139.5/52.0/[11.3]
+Matrix Compiler2: 75.45 KB object code size  16.9/19.7/[10.5]
+

@@ -1,0 +1,30 @@
+Title: ** Design1 **
+Date: Fri Sep 23 18:44:05 2022
+Plotname: Operating Point
+Flags: real
+No. Variables: 10
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice XVII
+Variables:
+	0	V(2)	voltage
+	1	V(vb_1k)	voltage
+	2	V(15)	voltage
+	3	Id(Mu9)	device_current
+	4	Ig(Mu9)	device_current
+	5	Ib(Mu9)	device_current
+	6	Is(Mu9)	device_current
+	7	I(Rrb1)	device_current
+	8	I(Vv7)	device_current
+	9	I(Vv1)	device_current
+Values:
+0		1.200000000000000e+001
+	4.334057555659227e+000
+	5.000000000000000e+000
+	4.334057555652748e-003
+	0.000000000000000e+000
+	-7.671161569484462e-012
+	-4.334057547999187e-003
+	4.334057555659227e-003
+	0.000000000000000e+000
+	-4.334057555652748e-003
